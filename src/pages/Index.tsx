@@ -159,7 +159,7 @@ const Index = () => {
                 <Card key={index} className="border-l-4 border-l-primary hover:shadow-md transition-shadow">
                   <CardContent className="p-6 flex flex-col md:flex-row md:items-center md:justify-between gap-4">
                     <div className="flex items-center gap-4">
-                      <div className="w-12 h-12 bg-primary/10 rounded-lg flex items-center justify-center">
+                      <div className="w-12 h-12 rounded-lg flex items-center justify-center bg-gray-200">
                         <Icon name="Calendar" className="text-primary" size={24} />
                       </div>
                       <div>
